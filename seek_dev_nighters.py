@@ -30,5 +30,5 @@ def get_midnighters(attempts):
 if __name__ == '__main__':
     counter = 0
     for idx, midnighter in enumerate(get_midnighters(load_attempts()), 1):
-        print("{}) {} submitted task for review at {}\n".format(idx, 
+        print("{}) {} submitted last task for review at {}\n".format(idx, 
             midnighter['username'], midnighter['time']))
