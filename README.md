@@ -1,6 +1,6 @@
 # Night Owls Detector
 
-[TODO. There will be project description]
+Detects who sent last task for review after today's midnight. Uses pendulum for faster and easier working with timezones.
 
 # Project Goals
 
