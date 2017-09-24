@@ -1,0 +1,2 @@
+requests==2.18.1
+pendulum==1.2.5
