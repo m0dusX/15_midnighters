@@ -1,6 +1,6 @@
 # Night Owls Detector
 
-This script works with DEVMAN.org. It detects who sent last task for review after today's midnight. Uses pendulum for faster and easier working with timezones. Prints following information about each found user:
+This script works with DEVMAN.org. It detects who sent tasks for review after today's midnight. Uses pendulum for faster and easier working with timezones. Prints following information about each found user:
 1) Username on DEVMAN.org
 2) Date and time at which user submitted task for review
 
@@ -16,7 +16,7 @@ $ python seek_dev_nighters.py <path to file>
 
 ```
 
-Output data example:
+Output data example (programm was executed at 2017-09-27 12:45:21):
 
 ```#!bash
 
